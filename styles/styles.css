@@ -513,6 +513,7 @@ body {
 .popover-search-form-svg:hover {
   fill: #2d3440;
   border-right: 50%;
+  cursor: pointer;
 }
 
 .popover-search-form-svg:focus {
